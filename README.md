@@ -66,3 +66,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+Also you can run $ json-server worker.js to create a fake api with 30 workers by going too localhost:3000/workers you can then use postman to make get and post request. 
